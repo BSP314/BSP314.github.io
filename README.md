@@ -1,2 +1,2 @@
 # BSP314.github.io
-这是个GithubPages网站
+这是个GithubPage网站
